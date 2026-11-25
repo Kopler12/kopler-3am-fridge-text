@@ -1,3 +1,5 @@
+"""Write the smart fridge's 3am message to /output/entry.txt."""
+
 import os
 
 LINE = (
